@@ -6,7 +6,7 @@ This Python script scans AAV capsid `.ape` files to identify and map assembly-ac
   <img src="images/AAPs.jpg" width="550px" />
 </p>
 
-### Instructions
+## Instructions
 1. Store your GenBank / `.ape` sequence files in a Google Drive folder.
 2. Edit the path to your folder.
 3. Update the dictionary with your domains of interest.
