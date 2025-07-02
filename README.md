@@ -3,7 +3,7 @@ GenBank files are standard in bioinformatics for storing DNA / protein sequences
 
 This Python script scans AAV capsid `.ape` files to identify and map assembly-activating protein (AAP) domains (like HR, CC, BR, TSR, PR) based on their nucleotide sequences, outputting the domain order found in each sequence. The AAP is crucial for assembling adeno-associated virus (AAV) capsids, which are widely used in gene therapy.
 <p align="center">
-  <img src="images/AAPs.jpg" width="600px" />
+  <img src="images/AAPs.jpg" width="550px" />
 </p>
 
 ### Instructions
