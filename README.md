@@ -11,7 +11,7 @@ This Python script scans AAV capsid `.ape` files to identify and map assembly-ac
 2. Edit the path to your folder.
 3. Update the dictionary with your domains of interest.
 4. Run the program.
-
+Sample output:
 <p align="center">
   <img src="images/sample_output.png" width="900px" />
 </p>
