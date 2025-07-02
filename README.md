@@ -1,2 +1,2 @@
-# protein_domain_finder
-For assembly-activating proteins (AAPs) in the Nakai Lab.
+# Assembly-Activating Protein (AAP) Domain Finder
+
